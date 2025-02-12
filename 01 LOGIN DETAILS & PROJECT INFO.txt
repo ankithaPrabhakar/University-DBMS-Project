@@ -2,8 +2,6 @@
 
 **Database Name: uni**
 
-**Developed by Abul Kalam**
-
 **Recommended PHP Version 5.6.3, 7.4.12**
 
 
